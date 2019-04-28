@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e02f02b1db8a22452a9ccd24f692eef2",
+    "revision": "9581252e796cd7e533a109cfcd0e3c73",
     "url": "/banma-web/index.html"
   },
   {
-    "revision": "ca387840d12dfd6aa80f",
+    "revision": "ae2e2792afb9a6cee29e",
     "url": "/banma-web/static/css/main.98f075c1.chunk.css"
   },
   {
-    "revision": "20700bb043d3a0383fb3",
-    "url": "/banma-web/static/js/2.bb5d78f7.chunk.js"
+    "revision": "52790ea1916c2c107175",
+    "url": "/banma-web/static/js/2.d904dad1.chunk.js"
   },
   {
-    "revision": "ca387840d12dfd6aa80f",
-    "url": "/banma-web/static/js/main.e6f5dda7.chunk.js"
+    "revision": "ae2e2792afb9a6cee29e",
+    "url": "/banma-web/static/js/main.950a1387.chunk.js"
   },
   {
     "revision": "a8d9c21b201fed37e0bd",

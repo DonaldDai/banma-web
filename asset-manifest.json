@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/banma-web/static/css/main.98f075c1.chunk.css",
-    "main.js": "/banma-web/static/js/main.007f6b32.chunk.js",
-    "main.js.map": "/banma-web/static/js/main.007f6b32.chunk.js.map",
+    "main.js": "/banma-web/static/js/main.9ff642e9.chunk.js",
+    "main.js.map": "/banma-web/static/js/main.9ff642e9.chunk.js.map",
     "runtime~main.js": "/banma-web/static/js/runtime~main.3e56c6af.js",
     "runtime~main.js.map": "/banma-web/static/js/runtime~main.3e56c6af.js.map",
-    "static/js/2.1f40238f.chunk.js": "/banma-web/static/js/2.1f40238f.chunk.js",
-    "static/js/2.1f40238f.chunk.js.map": "/banma-web/static/js/2.1f40238f.chunk.js.map",
+    "static/js/2.bb5d78f7.chunk.js": "/banma-web/static/js/2.bb5d78f7.chunk.js",
+    "static/js/2.bb5d78f7.chunk.js.map": "/banma-web/static/js/2.bb5d78f7.chunk.js.map",
     "index.html": "/banma-web/index.html",
-    "precache-manifest.4a5b68f53a199be3dc44f6a1d3b63049.js": "/banma-web/precache-manifest.4a5b68f53a199be3dc44f6a1d3b63049.js",
+    "precache-manifest.c418aee7194e834b2bf27bc726338ef3.js": "/banma-web/precache-manifest.c418aee7194e834b2bf27bc726338ef3.js",
     "service-worker.js": "/banma-web/service-worker.js",
     "static/css/main.98f075c1.chunk.css.map": "/banma-web/static/css/main.98f075c1.chunk.css.map"
   }
